@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "komisi_plus_gajipokok_pegawai_polymorphism/1.0.0": {
+        "runtime": {
+          "komisi_plus_gajipokok_pegawai_polymorphism.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "komisi_plus_gajipokok_pegawai_polymorphism/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
